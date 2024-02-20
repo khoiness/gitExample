@@ -1,2 +1,3 @@
-boss,NetID,LastName,FirstName
+role,NetID,LastName,FirstName
+boss,secheng2,Cheng,Khoi
 employee,9082013476,Roloff,Harrison
